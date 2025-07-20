@@ -1,4 +1,4 @@
-Downloadable resources. To download a file, click 'View Raw'. 
+Downloadable resources. **To download a file, click 'View Raw'**. 
 
 [Glitter calming jar instructions](https://github.com/AbbyRAPhd/RBFResources/blob/a4171eb623ee015a4eb0b15fbd1d1a50c85a1ca2/Glitter%20calming%20jar%20instructions.docx)
 
